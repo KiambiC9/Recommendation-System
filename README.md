@@ -1,6 +1,8 @@
 # Recommendation-System
 The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
+
 Features
+
 📈 Collaborative Filtering (User-User, Item-Item)
 
 🧠 Rank Based Recommendation System
